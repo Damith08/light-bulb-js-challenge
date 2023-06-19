@@ -1,0 +1,13 @@
+title{
+    margin: 20px;;
+    padding: 10px;
+    font-color: red;
+}
+.on{
+    background-color: rgb(9, 221, 73);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.off{
+    background-color: rgb(202, 32, 32);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
